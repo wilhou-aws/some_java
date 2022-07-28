@@ -12,7 +12,7 @@ public class hellotest {
 
     @Test
     public void testWillAlwaysFail() {
-        fail("This is An Error");
+        fail("This is An correct!");
     }
 
 
